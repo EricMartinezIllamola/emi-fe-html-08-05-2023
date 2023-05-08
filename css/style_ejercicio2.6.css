@@ -1,0 +1,11 @@
+th {
+    padding: 20px;
+    background-color: blueviolet;
+    color: white;
+    border: black 1px solid;
+}
+
+td {
+    background-color: rgb(232, 180, 227);
+    border: black 1px solid;
+}
